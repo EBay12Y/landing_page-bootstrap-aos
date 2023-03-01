@@ -1,4 +1,4 @@
-# Proyek Website Sederhana - Membuat halaman Create Product menggunakan validasi Framework Bootstrap
+# Proyek Website Sederhana - Membuat halaman landing page sederhana dengan Framework Bootstrap
 
 Eksplorasi membuat simple landing page dengan brief sebagai berikut:
 
