@@ -6,4 +6,4 @@ Eksplorasi membuat simple landing page dengan brief sebagai berikut:
 ![Screenshot 2023-03-01 125316](https://user-images.githubusercontent.com/105551088/222056640-ce6dfd7b-ce17-44f5-8713-987f0eb34fe3.jpg)
 
 
-Link project yang sudah bisa dicoba ada disini 👉 [disini](#)
+Link project yang sudah bisa dicoba ada disini 👉 [klik disini](https://ebay12y.github.io/landing_page-bootstrap-aos/)
